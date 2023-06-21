@@ -1,5 +1,5 @@
 # Shopping List Printer
-A simple program to print a shopping list to a USB ESC-POS receipt printer.
+A simple program to print a shopping list to an ESC-POS receipt printer.  
 
 ## About:
 - The shopping list can easily be edited and printed from the web server
